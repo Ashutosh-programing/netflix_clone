@@ -1,0 +1,21 @@
+.h1{
+    font-size: 45px;
+    font-weight: 900;
+}
+.h2{
+    font-size: 22px;
+    font-weight:400;
+}
+.seperation{
+    height:8px;
+    background-color:rgb(64 63 63);
+    position: relative;
+}
+.center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.pointer{
+    cursor: pointer;
+}
